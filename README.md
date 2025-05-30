@@ -39,7 +39,7 @@ Key goals:
 
 ## 🌍 Live Demo
 
-👉 [View Deployed Site on Netlify](https://your-netlify-link.netlify.app)  
+👉 [View Deployed Site on Netlify](https://snazzy-treacle-b632d7.netlify.app)
 *(Replace this with your actual Netlify URL)*
 
 ---
